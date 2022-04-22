@@ -10,9 +10,14 @@
 <img src="https://user-images.githubusercontent.com/88550114/164730767-e6fe655a-df5b-4e3a-940a-1b26effeeb1a.png" width="200" height="400" />
 </p>
 
-## Features
+## Modules
 
-- Real-time weather data, hourly forecast, seven day forecast
-- Track any city.
-- lot of other useful info.
-- iOS platform
+- API integration.
+- GCD integration.
+- customized collection view cells.
+- customized table view cells.
+- UI integration.
+
+## API Provider
+
+- [openweathermap](https://openweathermap.org/)
